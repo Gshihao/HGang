@@ -1,0 +1,1 @@
+首先安装vscode工具，下载地址如下： https://code.visualstudio.com/ 在vs code的扩展中安装： Markdown Preview Enhanced 这款插件，安装完成重新加载即可生效 新建一个.md文件 Visual Studio Code 原生就支持高亮Markdown的语法，想要一边编辑一遍预览，有两种方法： 3.1. Ctrl + Shift + P 调出主命令框，输入 Markdown，应该会匹配到几项 Markdown相关命令 2.2. 先按Ctrl + K，然后放掉，紧接着再按 v，也能调出实时预览框。
